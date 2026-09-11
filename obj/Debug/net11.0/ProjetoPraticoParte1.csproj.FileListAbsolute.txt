@@ -1,0 +1,16 @@
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.exe
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.deps.json
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.runtimeconfig.json
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.runtimeconfig.dev.json
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.dll
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\bin\Debug\net11.0\ProjetoPraticoParte1.pdb
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.AssemblyInfo.cs
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.dll
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\refint\ProjetoPraticoParte1.dll
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.pdb
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoPraticoParte1.genruntimeconfig.cache
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ref\ProjetoPraticoParte1.dll
+C:\Users\Pichau\Projeto\ProjetoPraticoParte1\obj\Debug\net11.0\ProjetoP.A6BAEF07.Up2Date
